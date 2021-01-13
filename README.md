@@ -1,6 +1,9 @@
 # DMM: Data Modeling and Management course at dsai.asia
 **Objective:** The course emphasizes on emerging data models and technologies suitable for managing different types and characteristics of data. Students will develop skills in analyzing, evaluating, modeling and developing database applications with concerns on both technical and business requirements.
 
+![DSAI logo](https://dsai.asia/static/dsai/images/logo.b85dbbfe021c.png)
+![Erasmus+ logo](https://dsai.asia/static/dsai/images/logo-footer-eu.f5a0f510af80.png)
+
 ## Reference Books:
 - M. Kleppmann, Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems, O'Reilly, 2017, ISBN 978-1449373320
 - D. Sullivan, NoSQL for Mere Mortals, Addison-Wesley, 2015, ISBN 978-0-1340-2321-2
@@ -9,3 +12,4 @@
 - G. Harrison,Next Generation Databases: NoSQL and Big Data, Apress, 2015, ISBN 978-1-4842-1329-2
 - I. Robinson, J. Webber and E. Eifrem, Graph Databases: New Opportunities for Connected Data, 2/E, O’Reilly, 2015, ISBN 978-1-491-93200-1
 - R. Elmasri and S. Navathe: Fundamentals of Database Systems, 7/E, Addison-Wesley, 2015
+
